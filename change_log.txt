@@ -1,0 +1,1 @@
+2025년 5월  8일 목요일 13시 29분 15초 KST: Changed permission of private.sh to 500
